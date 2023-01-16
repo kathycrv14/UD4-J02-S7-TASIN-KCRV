@@ -1,0 +1,22 @@
+section{    
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex: wrap;
+}
+
+.bgDado{
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex: wrap;
+    width: 20rem;
+    height: 20rem;
+    border-radius: 50px;
+}
+
+h1{
+    color: white;
+    font-size: 8rem;
+}
